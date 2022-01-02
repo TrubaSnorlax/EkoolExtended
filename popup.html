@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <title>EkoolExtended</title>
+    <style>
+
+      body{
+        width: 280px;
+        border-radius: 16px;
+      }
+
+      .label{
+        width: 100%;
+        text-align: center;
+        font-family: Inter, sans-serif;
+        font-size: 30px;
+        height: fit-content;
+      }
+      
+      .settingsSegment{
+        width: 100%;
+        display: table;
+        height: fit-content;
+      }
+
+      .settingLabel{
+        display: table-cell;
+        vertical-align: middle;
+        font-family: Inter, sans-serif;
+        font-size: 15px;
+      }
+
+      .settingCheckBoxDiv{
+        display: table-cell;
+        text-align: right;
+      }
+
+
+    </style>
+  </head>
+  <body>
+
+    <div class="label">Ekool Extended</div>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray; border-radius: 1px;">
+
+    <div class="settingsSegment">
+      <p class="settingLabel">Term Grade Calculator</p>
+      <div class="settingCheckBoxDiv">
+        <input type="checkbox" id="gradeCalculatorEnabled" class="setting">
+      </div>
+    </div>
+
+
+    <script src="setCBvalues.js"></script>
+    <script src="popup.js"></script> 
+    
+  </body>
+</html>

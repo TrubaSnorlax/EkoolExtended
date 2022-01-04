@@ -20,9 +20,8 @@ Since it's a first Alpha version it has only one feature.
  5. Done! You have succesfuly installed Ekool Extended
 
 ### Firefox installation
-**!!! At this moment it's not possible to install this extension to the firefox !!!**
-1. ~~Go to https://addons.mozilla.org/en-US/firefox/addon/ekool-extended/~~
-2. ~~Just press `Add to Firefox`~~
+1. Go to https://addons.mozilla.org/en-US/firefox/addon/ekool-extended/
+2. Just press `Add to Firefox`
 
 ## Why am I doing this project?
 The answer is simple. Ekool.eu has some things that are made bad, and I want to change this and make it a bit better.

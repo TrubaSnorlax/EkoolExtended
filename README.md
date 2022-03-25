@@ -5,7 +5,7 @@ Since it's a first Alpha version it has only one feature.
 ## Features
 
  - Term grade calculator
-	 Calculates average grade in the gradesheet automatically. At this moment supports only numerical system, and marks only form 1 to 5. 
+	 Calculates average grade in the gradesheet automatically. At this moment supports only numerical system, and marks only from 1 to 5. 
 
 ## Installation guide
 
